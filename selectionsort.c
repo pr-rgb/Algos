@@ -7,7 +7,6 @@ void swap(int arr[], int firstindex, int secondindex){
 	  arr[secondindex] = temp;
 }
 
-{2,1,6,9,4,3}
 int indexOfMin(int arr[], int startindex, int n){
 
 	  int i;
